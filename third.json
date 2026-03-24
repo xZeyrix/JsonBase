@@ -1,0 +1,20 @@
+{
+  "university": {
+    "name": "AITU",
+    "faculties": [
+      {
+        "name": "IT",
+        "students": [
+          {"name": "Ali", "age": 20},
+          {"name": "Dana", "age": 19}
+        ]
+      },
+      {
+        "name": "Business",
+        "students": [
+          {"name": "Arman", "age": 21}
+        ]
+      }
+    ]
+  }
+}

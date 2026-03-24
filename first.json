@@ -1,0 +1,8 @@
+{
+  "store": "TechShop",
+  "products": [
+    {"name": "Laptop", "price": 500000, "in_stock": true},
+    {"name": "Phone", "price": 200000, "in_stock": false},
+    {"name": "Tablet", "price": 150000, "in_stock": true}
+  ]
+}
